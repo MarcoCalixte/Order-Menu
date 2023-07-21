@@ -93,7 +93,7 @@ const menu = [
   },
   {
     id: 12,
-    title: "gourmet soup",
+    title: "Steak Dinner",
     category: "dinner",
     price: 27.99,
     img: "images/eduardo-roda-lopes-mNefYU7uRbk-unsplash.jpg",
